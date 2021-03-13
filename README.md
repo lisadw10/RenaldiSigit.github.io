@@ -1,2 +1,2 @@
 # pertemuan-ke-2
-ini untuk percobaan tes
+ini untuk percobaan ke 2
